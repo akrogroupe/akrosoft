@@ -1,0 +1,16 @@
+
+
+                   ADMIN username = admin
+                         password = Test@123
+
+
+Roll id–Ra1
+
+DON'T FORGET TO CREATE A DATABASE  AND IMPORT THE SQL FILE AND RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+AkroSoft.
+
+
+
+
